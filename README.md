@@ -1,6 +1,6 @@
 # Minify
 
-Minify is a mini spotify music player it isnt a complete replacement because you need spotify open.
+Minify is a mini spotify music player
 
 To run it have music playing for a couple of seconds and then run minify and authenticate your spotify account.
 
